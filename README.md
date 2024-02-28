@@ -68,7 +68,7 @@ and gitleaks gets activated and tells us about the leaks found:
 
 ![Screenshot 2024-02-28 at 19 29 42](https://github.com/redjules/Integrate-Gitleaks-in-CI-Pipeline/assets/106017493/f42bb7b7-adb7-4a4b-abd3-525ea4cbf381)
 
-we want to shift securtiy as much to the left as possible!
+we want to shift security as much to the left as possible!
 
 ![Screenshot 2024-02-28 at 19 30 40](https://github.com/redjules/Integrate-Gitleaks-in-CI-Pipeline/assets/106017493/5a11b939-11a3-4ba9-95be-4e61297600a4)
 
