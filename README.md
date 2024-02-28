@@ -72,3 +72,4 @@ we want to shift security as much to the left as possible!
 
 ![Screenshot 2024-02-28 at 19 30 40](https://github.com/redjules/Integrate-Gitleaks-in-CI-Pipeline/assets/106017493/5a11b939-11a3-4ba9-95be-4e61297600a4)
 
+![Screenshot 2024-02-28 at 19 32 03](https://github.com/redjules/Integrate-Gitleaks-in-CI-Pipeline/assets/106017493/bbd36c91-7bed-4e7e-9eb9-e4331c4a35e9)
